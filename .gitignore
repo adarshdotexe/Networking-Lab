@@ -1,2 +1,6 @@
 # .gitignore
 ./.vscode/*
+Lab2-InterProcessCommunication/ExtraWork/Receiver
+Lab2-InterProcessCommunication/ExtraWork/Sender
+.gitignore
+.vscode/*
